@@ -1,2 +1,2 @@
 # my-portfolio
-My graphic design portfolio website.
+My portfolio website
